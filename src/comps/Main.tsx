@@ -42,7 +42,7 @@ export default function Main(){
         const fetchData = async () => {
             try {
                 const balance = await euroInstance.getBalance();
-                const delay = null//await euroInstance.getUserDelay();
+                const delay = await euroInstance.getUserDelay();
     
                 let message = "";
                 if (balance) {
