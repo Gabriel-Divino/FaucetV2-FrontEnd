@@ -1,3 +1,13 @@
+## Requisitos para Acesso ao Site
+
+Para utilizar todas as funcionalidades do site, é **necessário** ter a carteira **MetaMask** instalada no seu navegador. Caso a MetaMask não esteja instalada, você verá uma tela em branco e não conseguirá acessar as funcionalidades do site.
+
+Se você ainda não tem a MetaMask instalada, pode baixá-la e configurá-la a partir do link oficial: [metamask.io](https://metamask.io).
+
+Após a instalação da MetaMask, recarregue o site para acessar todas as funcionalidades corretamente.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
