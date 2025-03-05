@@ -6,7 +6,7 @@ const CONTRACT_ADDRESS="0x3413fCBf8C40771C37F21Fe0a2c25D49FB703EBe";
 
 async function transferUser(wallet : string) : Promise<void> {
 
-    const request = await fetch(`http://localhost:3030/transfer/${wallet}`);
+    const request = await fetch(`https://j7hbkabx3arix5akoiohnursyy0bowrh.lambda-url.us-west-1.on.aws/transfer/${wallet}`);
 
     const response = await request.json();
 
